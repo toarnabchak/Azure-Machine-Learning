@@ -1,4 +1,4 @@
-# Chapter-1: Azure Machine Learning: the Overview
+# Chapter-1 - Azure Machine Learning: the Overview
 
 ![image](https://github.com/user-attachments/assets/6365a41b-b3fd-47d3-9e16-6d10cd136121)
 
